@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Triangles", "Triangles\Triangles.vcxproj", "{E5BA1E29-B8FC-42EA-8C97-35393C9649EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5BA1E29-B8FC-42EA-8C97-35393C9649EC}.Debug|x64.ActiveCfg = Debug|x64
+		{E5BA1E29-B8FC-42EA-8C97-35393C9649EC}.Debug|x64.Build.0 = Debug|x64
+		{E5BA1E29-B8FC-42EA-8C97-35393C9649EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{E5BA1E29-B8FC-42EA-8C97-35393C9649EC}.Debug|x86.Build.0 = Debug|Win32
+		{E5BA1E29-B8FC-42EA-8C97-35393C9649EC}.Release|x64.ActiveCfg = Release|x64
+		{E5BA1E29-B8FC-42EA-8C97-35393C9649EC}.Release|x64.Build.0 = Release|x64
+		{E5BA1E29-B8FC-42EA-8C97-35393C9649EC}.Release|x86.ActiveCfg = Release|Win32
+		{E5BA1E29-B8FC-42EA-8C97-35393C9649EC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4C9DD92-FA40-49F9-BC95-79E86B4BDCCB}
+	EndGlobalSection
+EndGlobal
